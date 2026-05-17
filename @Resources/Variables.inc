@@ -3,8 +3,8 @@
 ;Card Settings
 Language = English
 
-BackgroundColor=0,0,0
-ForegroundColor=204,102,153
+BackgroundColor=255,204,0
+ForegroundColor=0,0,0
 
 CardX=0
 CardY=0
