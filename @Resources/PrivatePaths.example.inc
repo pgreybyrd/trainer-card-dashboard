@@ -9,6 +9,7 @@ Birthday=010102001
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ;File Path Info
 
-VSCodePath=C:\Users\YOUR_USERNAME\AppData\Local\Programs\Microsoft VS Code\Code.exe
-CalculatorPath=C:\Windows\System32\calc.exe
-;etc.
+VSCodePath=C:\Path\To\Code.exe
+SteamPath=C:\Path\To\Steam.exe
+MasterballPath=C:\Path\To\Your\File.xlsx
+TODOPath=C:\Path\To\Folder

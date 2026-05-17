@@ -8,5 +8,7 @@ desktop.ini
 IDEAS.txt
 Settings.inc
 *.private.inc
-trainercard_USDate_w_Settings-Private.ini
+trainercard_USDate_w_Settings-Private - Copy.ini
+trainercard USDate w Settings.ini
 PrivatePaths.inc
+@Resources/PrivatePaths.inc
