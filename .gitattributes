@@ -1,0 +1,4 @@
+*.ini linguist-language=INI
+*.inc linguist-language=INI
+*.png linguist-vendored
+*.jpg linguist-vendored
