@@ -24,6 +24,10 @@ I like building tools that make my computer feel more like mine. This project st
 - Pixel art assets and UI layout customization
 - Windows desktop integration
 
+## Settings
+
+- To personalize links for your own usage @Resources/PrivatePaths.inc must be changed to include the files paths to the applications or files or whatever you want to use. There is an example of the structure in @Resources/Settings.example.inc
+
 ## Screenshots
 
 ### Badge01

@@ -6,3 +6,7 @@ desktop.ini
 *.ttf
 *.otf
 IDEAS.txt
+Settings.inc
+*.private.inc
+trainercard_USDate_w_Settings-Private.ini
+PrivatePaths.inc

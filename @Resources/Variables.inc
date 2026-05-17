@@ -18,7 +18,7 @@ FontFace=Agency FB
 ;Trainer Info
 
 UserName=Pinka
-Birthday=100390
+Birthday=10031990
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ;Badges
